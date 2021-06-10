@@ -1,8 +1,8 @@
-kei- 👋 Hi, I’m @keivy-690
-p- 👀 I’m interested in ...desenvolvimento front e  back end
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...introdução a linguagem C:
-- 📫 How to reach me ...atraves do meu e-mail keivysilva690@gmail.com
+👋 Hi, I’m @keivy-690
+👀 I’m interested in ...desenvolvimento front e  back end
+🌱 I’m currently learning ... introdução a linguagem C, Javascript e Git e Github
+💞️ I’m looking to collaborate on ...
+📫 How to reach me ...atraves do meu e-mail keivysilva690@gmail.com
 
 <!---
 keivy-690/keivy-690 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

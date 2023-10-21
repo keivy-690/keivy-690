@@ -1,7 +1,4 @@
-👋 Hi, I’m @keivy-690
-👀 I’m interested in ...desenvolvimento front e  back end
-🌱 I’m currently learning ... introdução a linguagem C, Javascript e Git e Github
-💞️ I’m looking to collaborate on ...
+👋 Constante aprendiz, fascinado em contribuir para o desenvolvimento de softwares, proporcionar melhorias de negócios, adquirir e compartilhar conhecimentos e servir à sociedade de forma justa e ética. Cultivo á filosofia centrada em clientes, de modo a antecipar e satisfazer suas necessidades de forma lucrativa, contribuindo para negócios sustentáveis, benefícios mútuos e criação de valor a curto e longo prazo.
 📫 How to reach me ...atraves do meu e-mail keivysilva690@gmail.com
 
 <!---
